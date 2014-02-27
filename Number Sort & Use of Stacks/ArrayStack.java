@@ -1,8 +1,7 @@
 /**
  * Programmer: James E. Hearn
- * Program: Chapter 3 Assignment
+ * Program: Number Sort and Use of Stacks
  * File: ArrayStack.java
- * Date: 9/26/2013
  * Description: A public class that implements the StackInterface interface. This class stores an array object 
  *              and provides methods to manipulate arrays using StackInterface functions.
  */

@@ -1,7 +1,6 @@
 /**
- * Assignment: Chapter 4
+ * Assignment: Fibonacci Sequence
  * Programmer: James E. Hearn
- * Date: 10/08/2013
  * File: FibonacciJPanel.java
  * Description: This class extends JPanel and implementsd ActionListener. This class provides a GUI 
  *             that displays the Fibonacci value of an integer input.

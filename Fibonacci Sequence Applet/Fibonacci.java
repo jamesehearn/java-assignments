@@ -1,7 +1,6 @@
 /**
- * Assignment: Chapter 4
+ * Assignment: Fibonacci Sequence 
  * Programmer: James E. Hearn
- * Date: 10/08/2013
  * File: Fibonacci.java
  * Description: This class declares and defines a recursive method called fib that returns the 
  *             Fibonacci result of its argument. The return value will be of type long.

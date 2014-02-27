@@ -1,7 +1,6 @@
 /**
- * Assignment: Chapter 4
+ * Assignment: Fibonacci Sequence
  * Programmer: James E. Hearn
- * Date: 10/08/2013
  * File: FibonacciJApplet.java
  * Description: This class extends JApplet and implements an init() method
  */

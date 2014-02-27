@@ -1,7 +1,6 @@
 /**
   * Filename: Employee.java
   * Author: James Hearn
-  * Date: 09/03/2013
   * Purpose: The Employee class is designed to keep all instance variables and accessor
   * methods private. It contains a public constructor to initialize all instance
   * variables a public print() method to print the values of an Employee object

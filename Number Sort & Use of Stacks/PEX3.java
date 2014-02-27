@@ -1,8 +1,7 @@
 /**
  * Programmer: James E. Hearn
- * Program: Chapter 3 Assignment
+ * Program: Number Sort and Use of Stacks
  * File: PEX3.java
- * Date: 9/26/2013
  * Description: A public class that applies the ArrayStack implementation. This program asks the user for 
  *             20 integers, sorts them into an even stack and an odd stack, and then prints each stack,
  *             individually, in order reverse of how the user input the numbers.

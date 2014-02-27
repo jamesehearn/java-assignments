@@ -1,9 +1,7 @@
 /**
   * Filename: Name.java
   * Author: James Hearn
-  * Date: 09/03/2013
-  * Purpose:
-  * This class is declared as a public class that includes a main method
+  * Purpose: This class is declared as a public class that includes a main method
   * for creating an Employee object called johnDoe. The values for that
   * employee object are then printed to the screen.
   */

@@ -1,8 +1,7 @@
 /**
  * Programmer: James E. Hearn
- * Program: Chapter 3 Assignment
+ * Program: Number Sort and Use of Stacks
  * File: StackInterface.java
- * Date: 9/26/2013
  * Description: Interface that declares all methods for stack-type data strctures.
  */
 
